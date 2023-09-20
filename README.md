@@ -30,4 +30,5 @@ Outputs for NMAOrdinal
 The macro automatically generates an rtf file. The rtf file includes five tables and two plots: (i) Parameter estimates; (ii) Model assessment criteria (-2 loglikelihood value, AIC, AICC, and BIC); (iii) Pairwise comparisons without multiplicity adjustments between two treatments; (iv) Pearson residuals and its chi-square test statistics; (v) Pearson residuals plot and P-values plot for goodness-of-fit; and (vi) P-scores for treatment ranking.
 
 Reference
+
 **Gwon, Y**, Mo, M, Chen, MH, Chi, Z, Li, J, Xia, H, and Ibrahim, JG (2020). Network Meta-Regression for Ordinal Outcomes: Applications in Comparing Crohn’s Disease Treatment. Statistics in Medicine, 39(13), 1840-1870.
