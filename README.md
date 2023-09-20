@@ -1,1 +1,3 @@
-# SAS macro to run the proposed model under three different scenarios
+# SAS macro: NMAOrdinal
+
+To run the proposed model under three different scenarios
