@@ -1,8 +1,8 @@
 /*************************************************************************
  * This macro is used to replicate all analyses results from the paper	 *
- * Network meta-regression for ordinal outcomes: 						 *
- *    Applications to in comparing Crohn's disease treatments			 *
- * By Gwon et al.(2020) Statistics in Medicine; 39: pp. 1846-1870		 *
+ * Network meta-regression for ordinal outcomes: 			 *
+ *    Applications to in comparing Crohn's disease treatments		 *
+ * By Gwon et al.(2020) Statistics in Medicine; 39: pp. 1846-1870	 *
  *                                                                       *
  * Written by Drs.Yeongjin Gwon and Ming-Hui Chen, February, 2021        *
  *************************************************************************/
