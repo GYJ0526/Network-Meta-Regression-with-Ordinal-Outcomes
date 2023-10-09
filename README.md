@@ -31,5 +31,5 @@ The macro automatically generates an rtf file. The rtf file includes five tables
 
 Reference
 
-**Gwon, Y**, Mo, M, Chen, MH, Chi, Z, Li, J, Xia, H, and Ibrahim, JG (2020). Network Meta-Regression for Ordinal Outcomes: Applications in Comparing Crohn’s Disease Treatment. Statistics in Medicine, 39(13), 1840-1870.
+**Gwon Y**, Mo M, Chen MH, Chi Z, Li J, Xia HA, and Ibrahim JG (2020). Network Meta-Regression for Ordinal Outcomes: Applications in Comparing Crohn’s Disease Treatment. Statistics in Medicine, 39(13), 1840-1870.
 https://onlinelibrary.wiley.com/doi/10.1002/sim.8518.
