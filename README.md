@@ -26,8 +26,13 @@ Note 3: Three different types of Crohn’ datasets are allowed: (i) Crohn1: extr
 Note 4: The values of the model number and the choice of a constant matrix A cannot be greater than 3. If the user enters the value >3 in any of the cases, the macro will produce an error message and execute.
 
 # Outputs for NMAOrdinal
-
-The macro automatically generates an rtf file. The rtf file includes five tables and two plots: (i) Parameter estimates; (ii) Model assessment criteria (-2 loglikelihood value, AIC, AICC, and BIC); (iii) Pairwise comparisons without multiplicity adjustments between two treatments; (iv) Pearson residuals and its chi-square test statistics; (v) Pearson residuals plot and P-values plot for goodness-of-fit; and (vi) P-scores for treatment ranking.
+## The macro automatically generates an rtf file. The rtf file includes five tables and two plots
+      (i) Parameter estimates
+      (ii) Model assessment criteria (-2 loglikelihood value, AIC, AICC, and BIC)
+      (iii) Pairwise comparisons without multiplicity adjustments between two treatments
+      (iv) Pearson residuals and its chi-square test statistics
+      (v) Pearson residuals plot and P-values plot for goodness-of-fit
+      (vi) P-scores for treatment ranking
 
 # Reference
 
